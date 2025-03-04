@@ -19,6 +19,8 @@
 
 - 📫 How to reach me **contact@morgan-leroux.com**
 
+- ⚡ Fun fact **It seems I love way too much the front-end's part of web 🙃**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/misterglox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="misterglox" height="30" width="40" /></a>
