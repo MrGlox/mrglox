@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrglox&label=Profile%20views&color=0e75b6&style=flat" alt="mrglox" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrglox" alt="mrglox" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/misterglox" target="blank"><img src="https://img.shields.io/twitter/follow/misterglox?logo=twitter&style=for-the-badge" alt="misterglox" /></a> </p>
 
 - 🔭 I’m currently working on [Brick Mail](WatchOver Comments)
@@ -35,19 +33,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrglox&show_icons=true&locale=en&layout=compact" alt="mrglox" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrglox&" alt="mrglox" /></p>
-## Hi there 👋
-
-<!--
-**MrGlox/mrglox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
